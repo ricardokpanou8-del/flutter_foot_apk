@@ -1,3 +1,4 @@
+
 # projet_1
 
 A new Flutter project.
@@ -42,3 +43,4 @@ samples, guidance on mobile development, and a full API reference.
 ## Solutions ou apprentissages
 - Recadrage de certaines images 
 - Recours à l'intelligence artificielle pour avoir plus d'informations sur la mise en page et sur certains widgets  afin d'obtenir un meilleur rendu  
+
