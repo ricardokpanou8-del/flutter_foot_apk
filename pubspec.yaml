@@ -1,0 +1,37 @@
+name: projet_1
+description: Un jeu de quiz football - reconnais les joueurs !
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Belligham.jpg
+    - assets/benzemar.jpg
+    - assets/Cristiano_Ronaldo.jpg
+    - assets/debrune.jpg
+    - assets/Erling_Haaland (2).jpg
+    - assets/griezman.jpg
+    - assets/Harry_Kane.jpg
+    - assets/Kylian_Mbappe.jpg
+    - assets/lionel_messi.jpg
+    - assets/Luka_Modric.jpg
+    - assets/Marcus_Rashford.jpg
+    - assets/MarcusThuram.jpg
+    - assets/Neymar.jpg
+    - assets/pedri.jpg
+    - assets/Vinicius_Jr.jpg
+    - assets/Victor.jpg 
